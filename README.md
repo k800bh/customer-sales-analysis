@@ -24,7 +24,7 @@ README.md    → project documentation
 ## What to Expect in This Project
 This project provides a complete end-to-end analysis of Customer Sales Performance using Power BI. Inside the repository, you will find everything needed to understand the business problem, explore the data, and review the interactive dashboard.
 
-1️. Clean & Structured Project Files
+1. Clean & Structured Project Files
 
 Power BI report (customer_sales_k.pbix)
 
@@ -34,7 +34,7 @@ Business documents explaining the problem
 
 SQL scripts and supporting files (if used)
 
-2️. Fully Designed Power BI Dashboard
+2. Fully Designed Power BI Dashboard
 
 A professionally built interactive dashboard containing:
 
@@ -50,7 +50,7 @@ Shipping and order behavior
 
 Product rating patterns
 
-3️. Data Modeling & DAX
+3. Data Modeling & DAX
 
 You will see:
 
